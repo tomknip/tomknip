@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomknip
 - 🧐 EIT Digital MSc Data Science Student performing a thesis internship on Explainable AI in fintech
 - 👀 I’m interested in Machine Learning and Reinforcement Learning
-- 🌱 I’m currently learning about explainable AI, design and Reinforcement Learning.
+- 🌱 I’m currently learning about explainable AI, Reinforcement Learning and design.
 - 📫 You can reach me on LinkedIn
 
 <!---
