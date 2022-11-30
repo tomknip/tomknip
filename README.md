@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tomknip
-- 🧐 EIT Digital MSc Data Science Student performing a thesis internship on Explainable AI in fintech
+- 🧐 EIT Digital MSc Data Science Graduate helping the manufacturing industry to increase their efficiency.
 - 👀 I’m interested in Machine Learning and Reinforcement Learning
-- 🌱 I’m currently learning about explainable AI, Reinforcement Learning and design.
-- 📫 You can reach me on LinkedIn
+- 🌱 I’m currently learning about explainable AI, Reinforcement Learning and Manufacturing.
+- 📫 You can reach me on [LinkedIn](https://nl.linkedin.com/in/tom-van-knippenberg)
 
 <!---
 tomknip/tomknip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
