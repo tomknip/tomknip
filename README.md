@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomknip
+- 👋 Hi, I’m @tomknip, a Data Scientist @ NTS-Group
 - 🧐 EIT Digital MSc Data Science Graduate helping the manufacturing industry to increase their efficiency.
 - 👀 I’m interested in Machine Learning and Reinforcement Learning
 - 🌱 I’m currently learning about explainable AI, Reinforcement Learning and Manufacturing.
