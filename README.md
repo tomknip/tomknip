@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tomknip, a Data Scientist @ NTS-Group
-- 🧐 EIT Digital MSc Data Science Graduate helping the manufacturing industry to increase their efficiency.
+- 👋 Hi, I’m @tomknip, a Machine Learning Engineer @ Floryn
+- 🧐 EIT Digital MSc Data Science Graduate helping the fintech industry to increase their efficiency using Machine Learning.
 - 👀 I’m interested in Machine Learning and Reinforcement Learning
-- 🌱 I’m currently learning about explainable AI, Reinforcement Learning and Manufacturing.
+- 🌱 I’m currently learning about explainable AI, Reinforcement Learning and Finance.
 - 📫 You can reach me on [LinkedIn](https://nl.linkedin.com/in/tom-van-knippenberg)
 
 <!---
